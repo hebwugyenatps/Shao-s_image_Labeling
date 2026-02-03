@@ -2,3 +2,6 @@
 <img width="1804" height="1172" alt="image" src="https://github.com/user-attachments/assets/67fa2205-db6c-4a6a-9d1c-8cf8da0642f0" />
 如图所示，运行脚本后会得到上述界面，通过拖拽图片到左侧方框中即可进行图像的打标。
 该应用旨在让用户一边对比图像一边对图像进行打标，提高训练集的提示词质量，进而提高lora训练的质量。
+https://github.com/user-attachments/assets/69733a91-ebd4-4251-931d-531606c0d0e3
+可以通过调节滑块灵活调节字体预览大小，以及丰富的功能
+https://github.com/user-attachments/assets/08b1897d-e7c6-4caf-916a-5d5c9c24fc78
